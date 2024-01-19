@@ -8,10 +8,11 @@
 <li>Create a <code>.env</code> file in the root directory of the project and add your API keys for OpenAI and the Telegram bot. Example:<br><code>API_KEY_GPT=YOUR_OPENAI_API_KEY</code><br>
 <code>API_KEY_BOT=YOUR_TELEGRAM_BOT_API_KEY</code></li>
 <li>Run the bot using the command:<br><code>node index.js</code></li>
+  <li>#crd https://github.com/harshitethic</li>
 </ol>
 
 <div align="center">
-  <a href="https://www.instagram.com/harshitethic/">
+  <a href="https://www.instagram.com/yeyint89978/">
     <img src="https://img.shields.io/badge/Follow%20%40harshitethic-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
   </a>
 </div>
